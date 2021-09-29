@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": "^8.0.10",
+        "laravel/serializable-closure": "^1.0",
+        "opis/closure": "^3.6"
+    }
+}
